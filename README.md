@@ -1,3 +1,6 @@
-# hello-world
-Hi...!
-I like javascript and Node.Js.
+#include<iostream>
+  using namespace std;
+  int main()
+  {
+    cout<<"Hell World !";
+  }
