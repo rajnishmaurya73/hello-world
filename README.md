@@ -3,4 +3,5 @@
   int main()
   {
     cout<<"Hell World !";
+    return 0;
   }
